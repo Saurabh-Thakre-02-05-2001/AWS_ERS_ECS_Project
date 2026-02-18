@@ -255,21 +255,6 @@ Pipeline automatically:
 
 ---
 
-# 📂 Project Structure
-
-```
-.
-├── Dockerfile
-├── Application Source Code
-├── buildspec.yml
-├── images/
-│   ├── architecture.png
-│   └── pipeline-success.png
-└── README.md
-```
-
----
-
 # ⚙️ Key Features
 
 ✔ Fully automated CI/CD pipeline  
