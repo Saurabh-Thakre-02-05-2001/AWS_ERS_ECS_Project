@@ -3,7 +3,7 @@ version: 0.2
 env:
   variables:
     AWS_ACCOUNT_ID: "731973045355"
-    REPOSITORY_NAME: "AWS_ERS_ECS_Project"
+    REPOSITORY_NAME: "aws-ers-ecs-project"
     CONTAINER_NAME: "website"
     CLUSTER_NAME: "Website-cluster"
     AWS_DEFAULT_REGION: "ap-south-1"
